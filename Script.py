@@ -208,7 +208,7 @@ Nᴀᴍᴇ : {}
 
 Mᴇꜱꜱᴀɢᴇ : <b>{}</b>"""
     
-    CAPTION = """<b><a href="https://t.me/ZoroverseX">{file_name}</a></b>\n\n<b>⚜️ Join Backup 🤝: <a href="https://t.me/AkMoviesHubBackup">[ 𝓐𝓴𝓜𝓸𝓿𝓲𝓮𝓼𝓗𝓾𝓫𝓑𝓪𝓬𝓴𝓾𝓹 ]</a></b>"""
+    CAPTION = """<b><a href="https://t.me/AkMovieVerse">{file_name}</a></b>\n\n<b>⚜️ Join Backup 🤝: <a href="https://t.me/+goqkqMMqob44YzBl">[ AkMovieVerse ]</a></b>"""
 
     
     MOVIE_UPDATE_NOTIFY_TXT = """
@@ -269,7 +269,7 @@ Requested by : {message.from_user.mention}</b>"""
 ◉ 60 ᴅᴀʏꜱ - 75 ₹  / 75 ꜱᴛᴀʀ
 
 •─────•─────────•─────•
-🏷️ <a href='https://t.me/ZoroverseX'>ꜱᴜʙꜱᴄʀɪᴘᴛɪᴏɴ</a>
+🏷️ <a href='https://t.me/AkMovieVerse'>ꜱᴜʙꜱᴄʀɪᴘᴛɪᴏɴ</a>
 
 ‼️ ᴍᴜꜱᴛ ꜱᴇɴᴅ ꜱᴄʀᴇᴇɴꜱʜᴏᴛ ᴀꜰᴛᴇʀ ᴘᴀʏᴍᴇɴᴛ.
 ‼️ ᴀꜰᴛᴇʀ ꜱᴇɴᴅɪɴɢ ꜱᴄʀᴇᴇɴꜱʜᴏᴛ ɢɪᴠᴇ ᴜꜱ ꜱᴏᴍᴇᴛɪᴍᴇꜱ ᴛᴏ ᴀᴅᴅ ʏᴏᴜ ɪɴ ᴘʀᴇᴍɪᴜᴍ ʟɪꜱᴛ."""
