@@ -95,33 +95,33 @@ ABOVE_PREVIEW = bool(environ.get('ABOVE_PREVIEW', True)) # Shows link preview ab
 # ============================
 # Verification Settings
 # ============================
-IS_VERIFY = is_enabled('IS_VERIFY', False)  # Verification On (True) / Off (False)
+IS_VERIFY = is_enabled('IS_VERIFY', True)  # Verification On (True) / Off (False)
 LOG_VR_CHANNEL = int(environ.get('LOG_VR_CHANNEL', '-1002800489154')) #Verification Channel Id 
 LOG_API_CHANNEL = int(environ.get('LOG_API_CHANNEL', '-1002800489154')) #If Anyone Set Your Bot In Any Group And Set Shortner In That Group Then In This Channel The All Details Come
 VERIFY_IMG = environ.get("VERIFY_IMG", "https://graph.org/file/1669ab9af68eaa62c3ca4.jpg")
 
-TUTORIAL = environ.get("TUTORIAL", "https://t.me/how_to_open_link_ak/20")   # Tutorial link for verification
-TUTORIAL_2 = environ.get("TUTORIAL_2", "https://t.me/how_to_open_link_ak")   # Second tutorial link for verification
+TUTORIAL = environ.get("TUTORIAL", "https://t.me/how_to_open_link_ak/25")   # Tutorial link for verification
+TUTORIAL_2 = environ.get("TUTORIAL_2", "https://t.me/how_to_open_link_ak/27")   # Second tutorial link for verification
 TUTORIAL_3 = environ.get("TUTORIAL_3", "https://t.me/how_to_open_link_ak")   # Third tutorial link for verification
 
 # Verification (Must Fill All Veriables. Else You Got Error
-SHORTENER_API = environ.get("SHORTENER_API", "7dead26f3e7a90d19bb45e92ab57b078f24ebfbf") # Shortener API key
-SHORTENER_WEBSITE = environ.get("SHORTENER_WEBSITE", "nanolinks.in") # Shortener website
+SHORTENER_API = environ.get("SHORTENER_API", "a236cdf68649bcdf6eaba5f1119eacac803ba4eb") # Shortener API key
+SHORTENER_WEBSITE = environ.get("SHORTENER_WEBSITE", "vplink.in") # Shortener website
 
-SHORTENER_API2 = environ.get("SHORTENER_API2", "")  # Shortener API key for second website
-SHORTENER_WEBSITE2 = environ.get("SHORTENER_WEBSITE2", "") # Shortener website for second website
+SHORTENER_API2 = environ.get("SHORTENER_API2", "ef0b2771c0566718523c43928b4119fdfff25c8a")  # Shortener API key for second website
+SHORTENER_WEBSITE2 = environ.get("SHORTENER_WEBSITE2", "papajiurl.com") # Shortener website for second website
 
 SHORTENER_API3 = environ.get("SHORTENER_API3", "")  
 SHORTENER_WEBSITE3 = environ.get("SHORTENER_WEBSITE3", "") # Shortener website for third website
 
-TWO_VERIFY_GAP = int(environ.get('TWO_VERIFY_GAP', "0")) # Time gap for two-step verification in seconds (default: 20 minutes)
+TWO_VERIFY_GAP = int(environ.get('TWO_VERIFY_GAP', "43200")) # Time gap for two-step verification in seconds (default: 20 minutes)
 THREE_VERIFY_GAP = int(environ.get('THREE_VERIFY_GAP', "0"))    
 
 # ============================
 # Channel & Group Links Configuration
 # ============================
 GRP_LNK = environ.get('GRP_LNK', 'https://t.me/movie_seriesgroup') # Group link for the bot
-OWNER_LNK = environ.get('OWNER_LNK', 'https://t.me/NullZoro') # Owner link for the bot
+OWNER_LNK = environ.get('OWNER_LNK', 'https://t.me/Ak_OwnerBot') # Owner link for the bot
 UPDATE_CHNL_LNK = environ.get('UPDATE_CHNL_LNK', 'https://t.me/AkMovieVerse') # Update channel link for the bot
 
 # ============================
