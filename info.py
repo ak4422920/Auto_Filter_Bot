@@ -101,15 +101,15 @@ LOG_API_CHANNEL = int(environ.get('LOG_API_CHANNEL', '-1002800489154')) #If Anyo
 VERIFY_IMG = environ.get("VERIFY_IMG", "https://graph.org/file/1669ab9af68eaa62c3ca4.jpg")
 
 TUTORIAL = environ.get("TUTORIAL", "https://t.me/how_to_open_link_ak/25")   # Tutorial link for verification
-TUTORIAL_2 = environ.get("TUTORIAL_2", "https://t.me/how_to_open_link_ak/27")   # Second tutorial link for verification
+TUTORIAL_2 = environ.get("TUTORIAL_2", "https://t.me/how_to_open_link_ak/25")   # Second tutorial link for verification
 TUTORIAL_3 = environ.get("TUTORIAL_3", "https://t.me/how_to_open_link_ak")   # Third tutorial link for verification
 
 # Verification (Must Fill All Veriables. Else You Got Error
 SHORTENER_API = environ.get("SHORTENER_API", "a236cdf68649bcdf6eaba5f1119eacac803ba4eb") # Shortener API key
 SHORTENER_WEBSITE = environ.get("SHORTENER_WEBSITE", "vplink.in") # Shortener website
 
-SHORTENER_API2 = environ.get("SHORTENER_API2", "ef0b2771c0566718523c43928b4119fdfff25c8a")  # Shortener API key for second website
-SHORTENER_WEBSITE2 = environ.get("SHORTENER_WEBSITE2", "papajiurl.com") # Shortener website for second website
+SHORTENER_API2 = environ.get("SHORTENER_API2", "a236cdf68649bcdf6eaba5f1119eacac803ba4eb")  # Shortener API key for second website
+SHORTENER_WEBSITE2 = environ.get("SHORTENER_WEBSITE2", "vplink.in") # Shortener website for second website
 
 SHORTENER_API3 = environ.get("SHORTENER_API3", "")  
 SHORTENER_WEBSITE3 = environ.get("SHORTENER_WEBSITE3", "") # Shortener website for third website
